@@ -34,4 +34,4 @@ Igor Henrique (ptmgkira) fez este site com muito amor.
 
 ## License
 
-Copyright 2020 Igor Henrique(ptmgkira). All rights reserved.
+Copyright 2021 Igor Henrique(ptmgkira). All rights reserved.
